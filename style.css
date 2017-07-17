@@ -1,0 +1,26 @@
+body{
+    background-color:orange;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:greenyellow;
+    margin: 50px;
+}
+
+p{
+    color: navy;
+    padding-inline-start: 20px;
+    margin: 5px;
+}
+
+ol{
+    border: medium solid crimson;
+    display: inline-block;
+    font-size: 25px;
+
+}
+ul{
+    font-size: 18px;
+    }
